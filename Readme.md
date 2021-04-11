@@ -1,5 +1,5 @@
 # Nya
-nya!
+nya! (https://pypi.org/project/nya/)
   
 pip install nya  
   
